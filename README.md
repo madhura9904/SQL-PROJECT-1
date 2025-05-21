@@ -3,6 +3,7 @@
 ## Project Overview
 
 **Project Title**: Movie Rentals Analysis
+
 **Level**: Intermediate
 
 This project showcases my SQL skills in exploring and analysing data. It involves using a movie rental database, performing Exploratory Data Analysis(EDA), and executing specific queries to analyse the data.
@@ -126,7 +127,7 @@ LIMIT 2
 
 ## Conclusion
 
-This project demonstrates how to perform structured SQL analysis on a real-world style movie rental database. From basic EDA to business insights, it  the practical use of SQL joins, aggregations, filtering, and subqueries. 
+This project demonstrates how to perform structured SQL analysis on a real-world style movie rental database. From basic EDA to business insights, it emphasises the practical use of SQL joins, aggregations, filtering, and subqueries. 
 
 
 
