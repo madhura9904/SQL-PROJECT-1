@@ -1,6 +1,6 @@
 # Movie Rentals Analysis SQL Project
 
-##Project Overview
+## Project Overview
 
 **Project Title**: Movie Rentals Analysis
 **Level**: Intermediate
